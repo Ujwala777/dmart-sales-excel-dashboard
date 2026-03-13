@@ -37,6 +37,9 @@ This project solves the problem by building an interactive Excel dashboard that 
 * Data Cleaning
 * Basic Excel Functions
 
+## 📊 Dashboard Preview
+<img width="1258" height="707" alt="image" src="https://github.com/user-attachments/assets/946e8c38-402c-4f4c-a46b-5499e325dd79" />
+
 ## 📊 Dashboard Features
 
 * **Category-wise Sales Analysis** – Comparison of sales across Clothing, Electronics, Furniture, and Groceries
@@ -50,7 +53,7 @@ This project solves the problem by building an interactive Excel dashboard that 
 
 * `DMart_Sales_Dashboard.xlsx`
 * `dmart_sales_dataset.csv`
-* `images/` – Dashboard screenshots
+* `images/` 
 * `README.md`
 
 ## 📈 Key Insights
@@ -70,5 +73,5 @@ This project solves the problem by building an interactive Excel dashboard that 
 
 ## 👨‍💻 Author
 
-**Katthi Ujwala**
+**Kathi Ujwala**
 Aspiring Data Analyst
